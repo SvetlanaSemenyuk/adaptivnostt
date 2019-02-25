@@ -1,0 +1,32 @@
+html, body {
+padding: 0;
+margin: 0;
+color: white;
+}
+#content{
+	width: 100%;
+	max-width: 1100px;
+	margin: 0 auto;
+}
+#leftblock{
+	width: 63.63636363636363%;
+	float: left;
+	background: green;
+}
+#rightblock{
+	width: 36.36363636363636%;
+	float: right;
+	background: blue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
